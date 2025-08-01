@@ -10,7 +10,7 @@ This repository includes:
 - **Raspberry pi 5 slave code**:
   was developed to demonstrate robust master-slave communication on a real time motion detection and tracking image-processing application.
   Images and video frames are captured in real-time using the Basler camera connected to the Raspberry Pi and pypylon library.
-  The captured data is processed with **OpenCV** in Python to perform motion tracking and object detection.
+  The captured data is processed with **OpenCV** in Python to perform motion detection and tracking.
   This setup enables precise and efficient image analysis necessary for controlling the motors and overall system response.
 - **Arduino slave code** (The Arduino-based distance measurement component was implemented by a fellow intern team member and is included here for completeness.)
 
