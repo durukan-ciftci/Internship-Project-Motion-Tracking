@@ -3,7 +3,7 @@ Motion tracking system using Pelco-D protocol over RS485 with image processing o
 
 # Internship-task-codes
 This repository includes:
-- **STM32F107 Master code**:
+- **STM32F103 Master code**:
   sends commands to the slaves to control parameters such as angle, RPM, and step counts. Also requests and receives data from slaves regarding distance measurements, remaining steps, current angle position, RPM,     and the detected moving object's X and Y coordinates. This two-way communication enables precise coordination and real-time feedback within the motion tracking system.
 - **STM32F411RE Slave code** (including step motor library Stepper from deep blue embedded):
   was developed to drive two servo motors and a stepper motor, demonstrating successful UART communication over RS485. This code handles incoming Pelco-D commands, translating them into precise motor movements to     enable motion tracking as part of the overall system.
