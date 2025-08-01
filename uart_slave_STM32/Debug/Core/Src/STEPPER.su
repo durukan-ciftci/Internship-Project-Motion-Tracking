@@ -1,0 +1,13 @@
+../Core/Inc/DWT_Delay.h:27:22:DWT_Delay_ms	24	static
+../Core/Src/STEPPER.c:57:6:STEPPERS_Init	48	static
+../Core/Src/STEPPER.c:112:6:STEPPERS_Init_TMR	48	static
+../Core/Src/STEPPER.c:140:6:STEPPER_SetSpeed	32	static
+../Core/Src/STEPPER.c:156:13:STEPPER_One_Step	24	static
+../Core/Src/STEPPER.c:207:6:STEPPER_Step_Blocking	24	static
+../Core/Src/STEPPER.c:223:6:STEPPER_Step_NonBlocking	16	static
+../Core/Src/STEPPER.c:229:6:STEPPER_Stop	16	static
+../Core/Src/STEPPER.c:234:6:STEPPER_Main	16	static
+../Core/Src/STEPPER.c:253:6:STEPPER_TMR_OVF_ISR	24	static
+../Core/Src/STEPPER.c:276:6:STEPPER_GET_STEP	16	static
+../Core/Src/STEPPER.c:281:6:STEPPER_GET_STEP_INDEX	16	static
+../Core/Src/STEPPER.c:286:6:STEPPER_GET_DIR	16	static
