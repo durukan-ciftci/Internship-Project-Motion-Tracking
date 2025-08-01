@@ -14,9 +14,9 @@ This repository includes:
   This setup enables precise and efficient image analysis necessary for controlling the motors and overall system response.
 - **Arduino slave code** (The Arduino-based distance measurement component was implemented by a fellow intern team member and is included here for completeness.)
 
-written for my internship project.
+Developed during my internship at MS Spektral, July 2025.
 
 # Acknowledgments:
 Special Thanks to [deepbluembedded] for (https://deepbluembedded.com/stm32-stepper-motor-control-library-unipolar-28byj-48-uln2003/ ,and https://github.com/Khaled-Magdy-DeepBlue/STM32_Course_DeepBlue/tree/master/ECUAL/STEPPER) for their reference control of step motor.
 
-Developed during my internship at MS Spektral, July 2025.
+
