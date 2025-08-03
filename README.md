@@ -9,7 +9,7 @@ This repository includes:
   was developed to drive two servo motors and a stepper motor, demonstrating successful UART communication over RS485. This code handles incoming Pelco-D commands, translating them into precise motor movements to     enable motion tracking as part of the overall system.
 - **Raspberry pi 5 slave code**:
   was developed to demonstrate robust master-slave communication on a real time motion detection and tracking image-processing application.
-  Images and video frames are captured in real-time using the Basler camera connected to the Raspberry Pi and pypylon library.
+  Images and video frames are captured in real-time using the Basler Aca1920 camera connected to the Raspberry Pi and pypylon library.
   The captured data is processed with **OpenCV** in Python to perform motion detection and tracking.
   This setup enables precise and efficient image analysis necessary for controlling the motors and overall system response.
 - **Arduino slave code** (The Arduino-based distance measurement component was implemented by a fellow intern team member and is included here for completeness.)
